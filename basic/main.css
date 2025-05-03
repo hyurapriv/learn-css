@@ -4,6 +4,15 @@ body {
 
 h1 {
     color: red;
+    font-size: 100px;
     text-align: center;
-    font-size: 10em;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    line-height: 20px;
 }
